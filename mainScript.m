@@ -3,7 +3,7 @@ function mainScript()
     clear;
     clc;
 
-    baseDir = 'C:\Users\onur.yildiz\OneDrive - Logo\Documents\MATLAB\Weather\';
+    baseDir = 'C:\Users\onur.yildiz\OneDrive - Logo\Documents\MATLAB\WeatherForecast\';
     trainDataPath = fullfile(baseDir, 'dataset');
     testDataPath = fullfile(baseDir, 'testset');
 
